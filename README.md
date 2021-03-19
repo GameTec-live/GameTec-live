@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GameTec-live
+- 👀 I’m interested in programming and PCs
+- 💞️ I’m looking to collaborate on advanced python programms..
+- 📫 How to reach me benedikt.werner08@gmail.com
