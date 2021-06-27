@@ -2,3 +2,4 @@
 - 👀 I’m interested in programming and PCs
 - 💞️ I’m looking to collaborate on advanced python programms..
 - 📫 How to reach me benedikt.werner08@gmail.com
+- https://discord.gg/5J3WgkbPE5
