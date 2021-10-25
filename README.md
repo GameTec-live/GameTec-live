@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GameTec_live</h1>
 <h3 align="center">A giant nerd and python programmer</h3>
 
-- 🔭 I’m currently working on [ms-famdisable](https://github.com/GameTec-live/msfamdisable)
+- 🔭 I’m currently working on [perrOS](https://github.com/webshort/perros)
 
 - 🌱 I’m currently learning **python, html, css, kubernetes, docker**
 
-- 👯 I’m looking to collaborate on [ms-famdisable](https://github.com/GameTec-live/msfamdisable)
+- 👯 I’m looking to collaborate on [webshort.uk](https://webshort.uk)
 
 - 🤝 I’m looking for help with the frontend of [ms-famdisable](https://github.com/GameTec-live/msfamdisable)
 
