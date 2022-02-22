@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **python, html, css, kubernetes, docker**
 
-- 👯 I’m looking to collaborate on [webshort.uk](https://webshort.uk)
-
-- 🤝 I’m looking for help with the frontend of [ms-famdisable](https://github.com/GameTec-live/msfamdisable)
+- 👯 I’m looking to collaborate on [perros](https://cloudcorp.uk)
 
 - 👨‍💻 All of my projects are available at [https://gametec-live.github.io/childs/projects.html](https://gametec-live.github.io/childs/projects.html)
 
 - 💬 Ask me about **python, discord-bots**
-
-- 📫 How to reach me **benedikt.werner08@gmail.com**
 
 - 📫Discord **GameTec_live#2350**
 
