@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python, html, css, kubernetes, docker**
 
-- 👯 I’m looking to collaborate on [perros](https://cloudcorp.uk)
+- 👯 I’m looking to collaborate on [perrOS](https://cloudcorp.uk)
 
 - 👨‍💻 All of my projects are available at [https://gametec-live.github.io/childs/projects.html](https://gametec-live.github.io/childs/projects.html)
 
