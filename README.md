@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [perrOS](https://cloudcorp.uk)
 
-- 👨‍💻 All of my projects are available at [https://gametec-live.github.io/childs/projects.html](https://gametec-live.github.io/childs/projects.html)
+- 👨‍💻 All of my projects are available at [https://gametec.org](https://gametec.org)
 
 - 💬 Ask me about **python, discord-bots**
 
