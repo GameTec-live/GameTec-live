@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/5J3WgkbPE5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5J3WgkbPE5" height="30" width="40" /></a>
-<a rel="me" href="https://mastodon.online/@gametec_live">Mastodon</a>
+<a rel="me" href="https://mastodon.online/@gametec_live"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="sdsdfgs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
