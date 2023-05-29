@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [perrOS](https://github.com/helsby-studios/perros) and [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 
-- 🌱 I’m currently learning **python, html, css, kubernetes, docker**
+- 🌱 I’m currently learning **C and Flutter/Dart**
 
 - 👯 I’m looking to collaborate on [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 
