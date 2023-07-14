@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 
-- 📫Discord **GameTec_live#2350**
+- 📫Discord **@gametec_live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
