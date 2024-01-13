@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GameTec_live</h1>
 <h3 align="center">A giant nerd and programmer</h3>
 
-- 🔭 I’m currently working on [perrOS](https://github.com/helsby-studios/perros) and [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
+- 🔭 I’m currently working on [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 
-- 🌱 I’m currently learning **C and Flutter/Dart**
+- 🌱 I’m currently learning **C/C++ and Flutter/Dart**
 
 - 👯 I’m looking to collaborate on [ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 
