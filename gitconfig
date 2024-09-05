@@ -1,0 +1,22 @@
+[init]
+	defaultBranch = main
+#[commit]
+#	gpgSign = true
+[push]
+	autoSetupRemote = true
+	default = current
+[alias]
+	undo = reset --soft HEAD^
+	lg = log --oneline --decorate --all --graph
+[core]
+	editor = code --wait
+	pager = delta
+[interactive]
+    diffFilter = delta --color-only
+[delta]
+    navigate = true
+	line-numbers = true
+[merge]
+    conflictstyle = diff3
+[diff]
+    colorMoved = default
