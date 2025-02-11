@@ -108,7 +108,9 @@ alias nano=$DEFAULT_EDITOR # use \ to escape
 alias vi=$DEFAULT_EDITOR
 alias vim=$DEFAULT_EDITOR
 alias powershell='pwsh'
-alias sewnow='cd ~/Documents/schule/SEW1/c/ && code . && exit'
+alias copy='wl-copy'
+alias pste='wl-paste'
+alias cat='bat -n -P'
 
 # oh my posh config
 eval "$(oh-my-posh init bash --config ~/.omp.json)"
