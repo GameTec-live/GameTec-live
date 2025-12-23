@@ -110,7 +110,7 @@ alias vim=$DEFAULT_EDITOR
 alias powershell='pwsh'
 alias copy='wl-copy'
 alias pste='wl-paste'
-alias cat='bat -n -P'
+alias cat='bat --style=numbers -P'
 
 # oh my posh config
 eval "$(oh-my-posh init bash --config ~/.omp.json)"
